@@ -1,10 +1,7 @@
 import java.awt.Color;
 import java.awt.FontMetrics;
-import java.awt.GradientPaint;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
-import java.awt.Point;
-
 import javax.swing.Action;
 import javax.swing.DefaultButtonModel;
 import javax.swing.Icon;
